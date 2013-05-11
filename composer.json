@@ -17,12 +17,12 @@
         "source": "https://github.com/hostnet/form-twig-bridge"
     },
     "require": {
-        "symfony/form": "2.1.*",
-        "symfony/validator": "2.1.*",
-        "symfony/config": "2.1.*",
-        "symfony/translation": "2.1.*",
-        "symfony/twig-bridge": "2.1.*",
-        "symfony/http-foundation": "2.1.*"
+        "symfony/form": "2.2.*",
+        "symfony/validator": "2.2.*",
+        "symfony/config": "2.2.*",
+        "symfony/translation": "2.2.*",
+        "symfony/twig-bridge": "2.2.*",
+        "symfony/http-foundation": "2.2.*"
     },
     "autoload": {
         "psr-0": {"Hostnet": "src/"}
